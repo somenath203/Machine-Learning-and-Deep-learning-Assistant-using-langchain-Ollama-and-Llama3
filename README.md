@@ -1,6 +1,6 @@
 # Machine Learning and Deep learning Assistant using Ollama and Llama3
 
-This is a simple Question Answering application created with the help of Ollama, Llama3 Large Language Model and Streamlit that answer questions and produce code related to machine learning and deep learning.
+This is a simple Question Answering application created with the help of `Langchain`, `Ollama`, `Llama3 Large Language Model` and `Streamlit` that answer questions and produce code related to machine learning and deep learning.
 
 ## Demo Video of the Application
 
